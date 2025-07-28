@@ -4,10 +4,15 @@
 今回iPadの "CATO移行マニュアル" に "Microsoft Intune" "Microsoft Authenticator" "CATO"が取り上げてられている
 
 ## 疑問点　iPhoneについて
-* iPhoneはビジネスアカウントに移行するのか？
-* iPhoneはパーソナルアカウントで運用するのか？
-* iPhoneはビジネス用 "iCloud ID" に変更できるのか？
-* Microsoft Authenticator はどの端末へインストール？
+* iPhoneはビジネスアカウントに移行するのか？  
+　会社用のアカウントで運用
+* iPhoneはパーソナルアカウントで運用するのか？  
+　現状不明
+* iPhoneはビジネス用 "iCloud ID" に変更できるのか？  
+　現状不明
+* Microsoft Authenticator はどの端末へインストール？  
+　pinで運用  
+　ADアカウントがあるらしい
 
 ## バックアップの必要なデータ
 
